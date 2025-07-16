@@ -23,8 +23,8 @@ Fully responsive design that works seamlessly across desktop, tablet, and mobile
 The JavaScript code includes easy-to-modify API key support, allowing users to replace the key for personal use if needed.
 
 Tech Stack:
-Frontend: HTML, CSS, JavaScript
-API: OpenWeatherMap, Geolocation
+**Frontend:** HTML, CSS, JavaScript
+**API:** OpenWeatherMap, Geolocation
 
 **Screenshots:**
 
