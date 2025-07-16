@@ -1,6 +1,7 @@
-**WeatherWiz**
+## WeatherWiz
 A simple and user-friendly web application that displays real-time weather data for any city using a weather API.
-Features :
+
+## Features :
 🌍 City-Based Weather Search
 Users can enter the name of any city, and the app will instantly fetch and display current weather data for that location.
 
